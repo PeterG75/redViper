@@ -2,6 +2,8 @@
 
 **DISCLAIMER:** redViper is a proof of concept project that aims to demonstrate a potential challenge faced within the information security arena. I **do not condone** the use of this framework for anything other than research purposes or security testing.
 
+MAKE SURE YOU RUN THE SETUP SCRIPT BEFORE TRYING TO RUN REDVIPER
+
 For any questions, concerns or suggestions regarding redViper, feel free to contact me on twitter [@kindredsec](https://twitter.com/kindredsec).
 ****
 **redViper** is a Proof-of-Concept Command & Control (C2) Framework that utilizes *Reddit* for client-server communications. redViper is built in such a way so that infected hosts never communicate directly with attacker controlled infastructure, just reddit and reddit alone. 
