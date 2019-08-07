@@ -2,7 +2,7 @@
 
 **DISCLAIMER:** redViper is a proof of concept project that aims to demonstrate a potential challenge faced within the information security arena. I **do not condone** the use of this framework for anything other than research purposes or security testing.
 
-MAKE SURE YOU RUN THE SETUP SCRIPT BEFORE TRYING TO RUN REDVIPER
+**Make sure you run the setup/setup.sh in Bash before trying to run redViper!**
 
 For any questions, concerns or suggestions regarding redViper, feel free to contact me on twitter [@kindredsec](https://twitter.com/kindredsec).
 ****
